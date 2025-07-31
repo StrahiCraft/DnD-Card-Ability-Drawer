@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e02d55227f54a25498d0399114d275bb, type: 3}
+  m_Name: Sandwitch
+  m_EditorClassIdentifier: 
+  rollRating: 10
+  cardName: Sandwitch
+  cardArt: {fileID: 21300000, guid: d99f8bbd37fa7644ab48871c4a3aad29, type: 3}
+  cardDescription: Heal yourself half of for 1*D6 rounded down

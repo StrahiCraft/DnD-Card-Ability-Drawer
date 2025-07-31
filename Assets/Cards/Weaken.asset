@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e02d55227f54a25498d0399114d275bb, type: 3}
+  m_Name: Weaken
+  m_EditorClassIdentifier: 
+  rollRating: 1
+  cardName: Weaken
+  cardArt: {fileID: 21300000, guid: 920827de069f1d741a9b69e279bd78f4, type: 3}
+  cardDescription: Reduce every teammates damage by half untill the end of the next
+    turn if you roll below 10, the enemies if above or equal
